@@ -1,7 +1,6 @@
 - 👋 Oi, eu sou Fernanda Rodrigues  😊
-- 👀 Tenho interesse em HTML,CSS e  JS
--🥰 Interesse em aprender REAC T    
--   ! [IntriguedGIF] (https://user-images.githubusercontent.com/104037150/178292410-9f11cc63-78ce-4999-ab0b-b6e7398d35c7.gif) 
+- 👀 Tenho interesse em HTML,CSS e JS 
+- 🥰 Interesse em aprender REACT    
 </div>
 <div align="center">
   <a href="https://github.com/fer1192nanda">
