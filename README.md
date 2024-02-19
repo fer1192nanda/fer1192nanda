@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou Fernanda Rodrigues!  😊
-- Estudando Html, Css e JavaScript
+
 
 
 
