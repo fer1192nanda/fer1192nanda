@@ -1,18 +1,10 @@
-- 👋 Oi, eu sou Fernanda Rodrigues!  😊
-
-
 # Olá, eu sou a Fernanda 👋
-QA Analyst | Testes Funcionais | API | SQL
+QA Analyst | Testes Funcionais | API | CTFL | CTFL/AT | CTMAT |
 
 ## 🛠️ Ferramentas
 - ✅ Postman  
-- ✅ SQL  
-- ✅ TestRail  
 - ✅ Cypress
 
-## 🚀 Projetos
-### 🧪 Projeto X
-Descrição do que foi testado, ferramentas usadas e resultados.
 
 ## 📫 Contato
 [LinkedIn](link) | ✉️ email@exemplo.com
