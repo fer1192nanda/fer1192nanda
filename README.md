@@ -1,5 +1,5 @@
 # Olá, eu sou a Fernanda 👋
-QA Analyst | Testes Funcionais | API | CTFL | CTFL/AT | CTMAT |
+QA Analyst | Testes Funcionais | API | CTFL | CTFL-AT | CTMAT |
 
 ## 🛠️ Ferramentas
 - ✅ Postman  
