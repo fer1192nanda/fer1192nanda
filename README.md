@@ -7,7 +7,7 @@ QA Analyst | Testes Funcionais | API | CTFL | CTFL-AT | CTMAT |
 
 ## 🏆 Certificações
 
-![CTFL](CTFL)
+![CTFL](blob:https://outlook.live.com/91def329-32aa-4849-854f-3d17a02c2d39)
 
 ## 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/fernanda-gomes-/) 
