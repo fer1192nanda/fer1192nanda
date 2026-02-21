@@ -5,7 +5,6 @@ QA Analyst | Testes Funcionais | API | CTFL | CTFL-AT | CTMAT |
 - ✅ Postman  
 - ✅ Cypress
 
-
 ## 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/fernanda-gomes-/) 
 
