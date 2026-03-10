@@ -4,7 +4,7 @@ QA Analyst | Testes Funcionais | API | CTFL | CTFL-AT | CTMAT |
 ## 🛠️ Ferramentas
 - ✅ Postman  
 - ✅ Cypress
-- Playwright
+- ✅Playwright
 
 ## 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/fernanda-gomes-/) 
